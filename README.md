@@ -1,6 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=slice)
 # Hi there 👋
-
 ## ITS JIYEONG!
 
 [![JIYEONG's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiyeong08&count_private=true&show_icons=true&theme=rose&hide_border=true)](https://github.com/jiyeong08/github-readme-stats)
