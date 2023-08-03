@@ -1,9 +1,8 @@
 ### Hi there 👋
 ### ITS JIYEONG08
 
-[![JIYEONG's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiyeong08&count_private=true)](https://github.com/jiyeong08/github-readme-stats)
+[![JIYEONG's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiyeong08&count_private=true&show_icons=true)](https://github.com/jiyeong08/github-readme-stats)
 
-![JIYEONG's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiyeong08&show_icons=true)
 <img src="https://img.shields.io/badge/Java-3DDC84?style=flat-square&logo=Java&lodoColor="white"/>
 
 <!--
