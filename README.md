@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=slice)
 
 # ___***Hi there 👋***___
-## ***___ITS JIYEONG!___***
+## ***___ITS ME!___***
 
 <a href><img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white"></a>
 <a href><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"></a>
