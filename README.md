@@ -2,9 +2,9 @@
 ### ITS JIYEONG!
 
 
-[![JIYEONG's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiyeong08&count_private=true&show_icons=true&theme=neon&hide_border=true)](https://github.com/jiyeong08/github-readme-stats)
+[![JIYEONG's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiyeong08&count_private=true&show_icons=true&theme=rose&hide_border=true)](https://github.com/jiyeong08/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiyeong08&layout=compact&theme=holi&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiyeong08&layout=compact&theme=moltack&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
