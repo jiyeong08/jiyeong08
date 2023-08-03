@@ -4,7 +4,7 @@
 
 [![JIYEONG's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiyeong08&count_private=true&show_icons=true&bg_color=100,94C6EF,000000)](https://github.com/jiyeong08/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiyeong08&layout=compact&theme=dhighcontrast)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiyeong08&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
