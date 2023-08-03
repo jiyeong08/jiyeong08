@@ -6,7 +6,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiyeong08&layout=compact&theme=moltack&hide_border=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-status.vercel.app/api/pin/?username=jiyeong08&repo=jiyeong08)](https://github.com/jiyeong08/jiyeong08)
+[![Readme Card](https://github-readme-status.vercel.app/api/pin/?username=jiyeong08&repo=jiyeong08)](https://github.com/jiyeong08/github-readme-stats)
 
 <!--
 **jiyeong08/jiyeong08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
