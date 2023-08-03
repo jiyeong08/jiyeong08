@@ -1,5 +1,6 @@
 ### Hi there 👋
-### ITS JIYEONG
+### ITS JIYEONG![image](https://github.com/jiyeong08/jiyeong08/assets/140992400/eb2f3472-2411-438f-8fcd-80de1c9bec53)
+
 
 [![JIYEONG's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiyeong08&count_private=true&show_icons=true&bg_color={100,black,blue})](https://github.com/jiyeong08/github-readme-stats)
 
