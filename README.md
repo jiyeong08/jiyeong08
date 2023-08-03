@@ -3,6 +3,7 @@
 # Hi there 👋
 ## ITS JIYEONG!
 
+<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white">
 <img src="https://img.shields.io/badge/Java-3DDC84?style=flat-square&logo=Javaid&logoColor=white"/>
 
 
