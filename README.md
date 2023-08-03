@@ -1,10 +1,11 @@
 ### Hi there 👋
-### ITS JIYEONG![image](https://github.com/jiyeong08/jiyeong08/assets/140992400/eb2f3472-2411-438f-8fcd-80de1c9bec53)
+### ITS JIYEONG!
 
 
 [![JIYEONG's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiyeong08&count_private=true&show_icons=true&bg_color={100,black,blue})](https://github.com/jiyeong08/github-readme-stats)
 
-<img src="https://img.shields.io/badge/Java-3DDC84?style=flat-square&logo=Java&lodoColor="white"/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiyeong08)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **jiyeong08/jiyeong08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
