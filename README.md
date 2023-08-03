@@ -3,7 +3,7 @@
 # Hi there 👋
 ## ITS JIYEONG!
 
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-3DDC84?style=flat-square&logo=Javaid&logoColor=white"/>
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jiyeong08&count_private=true&show_icons=true&theme=rose&hide_border=true" />
