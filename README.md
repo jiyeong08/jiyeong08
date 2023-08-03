@@ -1,5 +1,5 @@
 ### Hi there 👋
-### ITS JIYEON08
+### ITS JIYEONG08
 
 <!--
 **jiyeong08/jiyeong08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
