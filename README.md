@@ -7,8 +7,6 @@
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiyeong08&layout=compact&theme=moltack&hide_border=true&hide_title=true" />
 </a>
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jiyeong08)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jiyeong08&repo=jiyeong08)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
