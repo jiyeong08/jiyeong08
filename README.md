@@ -1,5 +1,5 @@
 ### Hi there 👋
-### ITS JIYEONG08
+### ITS JIYEONG
 
 [![JIYEONG's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiyeong08&count_private=true&show_icons=true&theme=radical)](https://github.com/jiyeong08/github-readme-stats)
 
