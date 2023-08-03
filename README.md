@@ -6,6 +6,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiyeong08&layout=compact&theme=moltack&hide_border=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?jiyeong08=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jiyeong08&repo=jiyeong08)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
