@@ -6,6 +6,8 @@
 <a href><img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white"></a>
 <a href><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"></a>
 
+[NOTION](https://www.notion.so/4a1fa93b5f854a789a3edf8022539957?v=fbac5230bc5e4c27a9f094b4ee3a6605)
+
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jiyeong08&count_private=true&show_icons=true&theme=rose&hide_border=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiyeong08&layout=compact&theme=rose&hide_border=true&hide_title=true" />
