@@ -4,7 +4,7 @@
 ## ITS JIYEONG!
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jiyeong08&count_private=true&show_icons=true&theme=rose&hide_border=true" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiyeong08&layout=compact&theme=moltack&hide_border=true&hide_title=true" />
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiyeong08&layout=compact&theme=rose&hide_border=true&hide_title=true" />
 </a>
 
 
